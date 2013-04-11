@@ -13,5 +13,8 @@ How bad is it?
 >Sorting random list of size 100000:  904.841882944 s  
 >Finished!
 
-
 Whoops.
+
+Why would I ever use this?
+========
+You shouldn't. Dear $diety you shouldn't ever use this. This is terrible. If you think you should use it you are terrible.
